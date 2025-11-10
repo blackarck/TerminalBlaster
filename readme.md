@@ -3,6 +3,10 @@
 ## Description
 A fast-paced old-school style , **terminal-based arcade shooter** built in **.NET 10.0**, featuring ASCII enemies, wave-based progression, running inside console!
 
+![Title](images/Title.jpg)
+![GameGif](images/terminalBlaster.gif)
+![GamePlay](images/gamePlay.jpg)
+
 ### Why created a game in console ? 
 - Why not right, wanted to learn some of the cool CLI libraries but none suited what I am trying to do here.
 
